@@ -1,5 +1,5 @@
 {
-  "name": "drupal/bootstrap",
+  "name": "pdx/bootstrap",
   "description": "Built to use Bootstrap, a sleek, intuitive, and powerful front-end framework for faster and easier web development.",
   "type": "drupal-theme",
   "license": "GPL-2.0",
@@ -20,11 +20,5 @@
       "homepage": "https://www.drupal.org/u/wundo",
       "role": "Co-maintainer"
     }
-  ],
-  "support": {
-    "docs": "http://drupal-bootstrap.org",
-    "issues": "https://www.drupal.org/project/issues/bootstrap",
-    "irc": "irc://irc.freenode.org/drupal-bootstrap",
-    "source": "http://cgit.drupalcode.org/bootstrap"
-  }
+  ]
 }
