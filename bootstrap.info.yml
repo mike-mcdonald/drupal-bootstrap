@@ -49,6 +49,10 @@ libraries-override:
   system/admin: false
   text/drupal.text: bootstrap/drupal.text
 
+  entity_browser/modal_selection:
+    js:
+      js/entity_browser.modal_selection.js: js/modules/entity_browser/entity_browser.modal_selection.js
+
 # Remove individual stylesheets.
   system/base:
     css:
