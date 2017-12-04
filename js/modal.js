@@ -172,7 +172,7 @@
      *   The HTML for the modal close button.
      */
     bootstrapModalClose: function () {
-      return '<button type="button" class="close" data-dismiss="modal" aria-label="' + Drupal.t('Close') + '"><span aria-hidden="true">&times;</span></button>';
+      return '<button type="button" class="close dialog-cancel" data-dismiss="modal" aria-label="' + Drupal.t('Close') + '"><span aria-hidden="true">&times;</span></button>';
     },
 
     /**
